@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitdate-app/static/css/main.afb794a7.css",
+    "main.js": "/fitdate-app/static/js/main.a98a5f79.js",
+    "static/js/787.72053311.chunk.js": "/fitdate-app/static/js/787.72053311.chunk.js",
+    "index.html": "/fitdate-app/index.html",
+    "main.afb794a7.css.map": "/fitdate-app/static/css/main.afb794a7.css.map",
+    "main.a98a5f79.js.map": "/fitdate-app/static/js/main.a98a5f79.js.map",
+    "787.72053311.chunk.js.map": "/fitdate-app/static/js/787.72053311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb794a7.css",
+    "static/js/main.a98a5f79.js"
+  ]
+}
